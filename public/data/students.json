@@ -1,0 +1,33 @@
+{
+    "status": 200,
+    "students": [
+      {
+        "id": 1,
+        "name": "ved prakash n.",
+        "course": "bca",
+        "email": "ved@gmail.com",
+        "phone": "9875987877",
+        "created_at": "2023-01-17T02:22:54.000000Z",
+        "updated_at": "2023-01-17T02:22:54.000000Z"
+      },
+      {
+        "id": 2,
+        "name": "om prakash",
+        "course": "bca",
+        "email": "om@gmail.com",
+        "phone": "9875987877",
+        "created_at": "2023-01-17T02:23:09.000000Z",
+        "updated_at": "2023-01-17T02:23:09.000000Z"
+      },
+      {
+        "id": 5,
+        "name": "new update",
+        "course": "bba",
+        "email": "newupdate@gmail.com",
+        "phone": "9875987877",
+        "created_at": "2023-01-17T06:32:43.000000Z",
+        "updated_at": "2023-01-17T06:32:43.000000Z"
+      }
+    ]
+  }
+  
